@@ -3,6 +3,9 @@ Hangman
 A game for guessing words by letter!
 -----------------------------------
 ### Rules of the game:
+To run the application, you need to run `bundle` in the application directory to install all the necessary gems.
+
+### Rules of the game:
 You have several attempts to guess the word. 
 You enter a letter and if this letter is contained in a word, 
 then this letter will open all empty cells of the word on which this letter stood. 
