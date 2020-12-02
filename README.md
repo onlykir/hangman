@@ -5,9 +5,9 @@ A game for guessing words by letter!
 ### Running:
 To run the application, you need to run `bundle` in the application directory to install all the necessary gems.
 
-+ `cd hangman`
-+ `bundle`
-+ `ruby main.rb`
++ `cd hangman` - go to the desired directory
++ `bundle` - catch the necessary gems
++ `ruby main.rb` - launch
 
 ### Rules of the game:
 You have several attempts to guess the word. 
@@ -20,4 +20,4 @@ The game will go on until you guess the word or until you use all your attempts.
 The game files have a file called "words.txt". 
 You need to add a word to it on a new line if you want it to be displayed in the game.
 
-`Important: each word in the file must be on a new line!`
+*Important: each word in the file must be on a new line!*
