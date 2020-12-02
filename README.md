@@ -2,7 +2,7 @@ Hangman
 =====================
 A game for guessing words by letter!
 -----------------------------------
-### Rules of the game:
+### Running:
 To run the application, you need to run `bundle` in the application directory to install all the necessary gems.
 
 ### Rules of the game:
