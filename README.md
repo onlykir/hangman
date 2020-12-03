@@ -15,7 +15,7 @@ bundle
 ``` 
 + launch
 ```
-ruby main.rb
+bundle exec ruby main.rb
 ``` 
 
 ### Rules of the game:
@@ -26,7 +26,7 @@ If the letter is wrong, then you are using one mistake.
 The game will go on until you guess the word or until you use all your attempts.
 
 ### How to add new words to the game:
-The game files have a file called "words.txt". 
+The game files have a file called `"words.txt".` 
 You need to add a word to it on a new line if you want it to be displayed in the game.
 
 *Important: each word in the file must be on a new line!*
