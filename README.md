@@ -5,9 +5,9 @@ A game for guessing words by letter!
 ### Running:
 To run the application, you need to run `bundle` in the application directory to install all the necessary gems.
 
-+ `cd hangman` - go to the desired directory
-+ `bundle` - catch the necessary gems
-+ `ruby main.rb` - launch
++ ```cd hangman``` - go to the desired directory
++ ```bundle``` - catch the necessary gems
++ ```ruby main.rb``` - launch
 
 ### Rules of the game:
 You have several attempts to guess the word. 
