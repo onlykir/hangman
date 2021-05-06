@@ -1,4 +1,3 @@
-Hangman
 =====================
 A console game for guessing words by letter!
 -----------------------------------
@@ -29,7 +28,7 @@ bundle exec ruby main.rb
 ``` 
 
 ### Demo:
-![hangman](https://user-images.githubusercontent.com/71513174/117350064-c8bb5a80-aeb4-11eb-9370-3c13e8daf78b.gif)
+![hang](https://user-images.githubusercontent.com/71513174/117373915-d41e7e00-aed4-11eb-97e6-07d81f56378e.gif)
 
 ### Rules of the game:
 You have several attempts to guess the word. 
