@@ -1,3 +1,4 @@
+Hangman!
 =====================
 A console game for guessing words by letter!
 -----------------------------------
