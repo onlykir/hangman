@@ -1,7 +1,17 @@
 Hangman
 =====================
-A game for guessing words by letter!
+A console game for guessing words by letter!
 -----------------------------------
+### Requirements:
+```
+ruby '2.5.0' or newer
+```
+
+### Installation:
+```
+git clone git@github.com:onlykir/hangman.git
+```
+
 ### Running:
 To run the application, you need to run `bundle` in the application directory to install all the necessary gems.
 
@@ -11,12 +21,15 @@ cd hangman
 ```
 + catch the necessary gems
 ```
-bundle
+bundle install
 ``` 
 + launch
 ```
 bundle exec ruby main.rb
 ``` 
+
+### Demo:
+![hangman](https://user-images.githubusercontent.com/71513174/117350064-c8bb5a80-aeb4-11eb-9370-3c13e8daf78b.gif)
 
 ### Rules of the game:
 You have several attempts to guess the word. 
